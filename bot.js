@@ -1,4 +1,4 @@
-﻿const Discord = require('discord.js');
+onst Discord = require('discord.js');
 const client = new Discord.Client();
 var prefix = "1";
 
@@ -10,7 +10,7 @@ client.on('ready', async() => {
 var server = "509357857666236430"; // ايدي السررفر
 var channel = "509357857666236434";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , **')
+    client.guilds.get(server).channels.get(channel).send('**محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود**')
     },305);
 })
 
